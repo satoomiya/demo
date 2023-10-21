@@ -1,3 +1,3 @@
 # demo
 1st repo
-author satyam
+author satyam (singh)
